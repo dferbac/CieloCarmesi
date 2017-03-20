@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Restaurante Cielo Carmes&iacute;</title>
+        <title>Restaurante Cielo gays&iacute;</title>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
         <link href='css/pacifico.css' rel='stylesheet' type='text/css'>
@@ -67,7 +67,7 @@
                 <div class="col-md-6">
                     <h1>Nosotros</h1>
                     <div class="fa fa-cutlery fa-2x"></div>
-                    <p class="desc-text">Es un placer para nosotros poder realizar sus sueños de compartir un desayuno delicioso con ustedes</p>
+                    <p class="desc-text">ESTO ESTA UN POQUITO MAL</p>
                 </div>
                 <div class="col-md-6">
                     <div class="img-section">
