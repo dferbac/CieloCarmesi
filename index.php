@@ -3,10 +3,10 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Restaurant</title>
+        <title>Restaurante Cielo Carmes&iacute;</title>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='css/pacifico.css' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/style-portfolio.css">
@@ -30,20 +30,20 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">Restaurant</a>
+                        <a class="navbar-brand" href="#">Cielo Carmes&iacute;</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav main-nav  clear navbar-right ">
-                            <li><a class="navactive color_animation" href="#top">WELCOME</a></li>
-                            <li><a class="color_animation" href="#story">ABOUT</a></li>
-                            <li><a class="color_animation" href="#pricing">PRICING</a></li>
-                            <li><a class="color_animation" href="#beer">BEER</a></li>
-                            <li><a class="color_animation" href="#bread">BREAD</a></li>
-                            <li><a class="color_animation" href="#featured">FEATURED</a></li>
-                            <li><a class="color_animation" href="#reservation">RESERVATION</a></li>
-                            <li><a class="color_animation" href="#contact">CONTACT</a></li>
+                            <li><a class="navactive color_animation" href="#top">BIENVENIDO</a></li>
+                            <li><a class="color_animation" href="#story">NOSOTROS</a></li>
+                            <li><a class="color_animation" href="#pricing">PRECIOS</a></li>
+                            <li><a class="color_animation" href="#beer">CERVEZAS</a></li>
+                            <li><a class="color_animation" href="#bread">BEBIDAS</a></li>
+                            <li><a class="color_animation" href="#featured">PLATOS</a></li>
+                            <li><a class="color_animation" href="#reservation">RESERVACIONES</a></li>
+                            <li><a class="color_animation" href="#contact">CONTACTENOS</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div>
@@ -53,8 +53,8 @@
         <div id="top" class="starter_container bg">
             <div class="follow_container">
                 <div class="col-md-6 col-md-offset-3">
-                    <h2 class="top-title"> Restaurant</h2>
-                    <h2 class="white second-title">" Best in the city "</h2>
+                    <h2 class="top-title"> Cielo Carmes&iacute;</h2>
+                    <h2 class="white second-title">" El mejor en la ciudad "</h2>
                     <hr>
                 </div>
             </div>
@@ -65,9 +65,9 @@
         <section id="story" class="description_content">
             <div class="text-content container">
                 <div class="col-md-6">
-                    <h1>About us</h1>
+                    <h1>Nosotros</h1>
                     <div class="fa fa-cutlery fa-2x"></div>
-                    <p class="desc-text">Restaurant is a place for simplicity. Good food, good beer, and good service. Simple is the name of the game, and we’re good at finding it in all the right places, even in your dining experience. We’re a small group from Denver, Colorado who make simple food possible. Come join us and see what simplicity tastes like.</p>
+                    <p class="desc-text">Es un placer para nosotros poder realizar sus sueños de compartir un desayuno delicioso con ustedes</p>
                 </div>
                 <div class="col-md-6">
                     <div class="img-section">
